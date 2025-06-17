@@ -6,10 +6,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brianmf7" alt="brianmf7" /></a> </p>
 
 - 📱 I’m currently working on [Activity Hub](https://github.com/ActivityHub-AI/ActivityHub)
+- - 🎶 I’m currently working on [NoteBeats](https://github.com/Sajidcodez/NoteBeats)
+- 👀 And more Projects on the way
+- 🌱 I’m currently learning **TypeScript, Swift , Reactive Native and SQL**
 
-- 🌱 I’m currently learning **TypeScript, Swift , Python and SQL**
-
-- 🎶 I’m currently working on [NoteBeats](https://github.com/Sajidcodez/NoteBeats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
