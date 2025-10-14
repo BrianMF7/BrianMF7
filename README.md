@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brian Martinez Flores</h1>
-<h3 align="center">My fields of interest are Full Stack Engineering, Mobile App Development, Systems Administration/Engineering, and AI</h3>
+<h3 align="center">I’m a first-generation Computer Science student at St. John’s University with interests in Full Stack Development, Software Engineering, DevOps, Artificial Intelligence, and Mobile App Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brianmf7&label=Profile%20views&color=0e75b6&style=flat" alt="brianmf7" /> </p>
 
