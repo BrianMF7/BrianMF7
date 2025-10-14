@@ -7,7 +7,7 @@
 
 - 📱 I’m currently working on [Activity Hub](https://github.com/ActivityHub-AI/ActivityHub)
 
-- 🌱 I’m currently learning **TypeScript, Swift , Python and SQL**
+- 🌱 I’m currently learning **TypeScript, Python and SQL**
 
 - 🎶 I’m currently working on [NoteBeats](https://github.com/Sajidcodez/NoteBeats)
 
