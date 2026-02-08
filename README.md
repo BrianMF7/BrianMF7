@@ -2,7 +2,7 @@
 <h3 align="center">I’m a first-generation Computer Science student at St. John’s University with interests in DevOps, Artificial Intelligence, and Software Engineering.</h3>
 
 
-- 📱 I’m currently working on [Activity Hub](https://github.com/ActivityHub-AI/ActivityHub)
+- 📱 I’m currently working on [Activity Hub](https://github.com/BrianMF7/ActivityHub)
 
 - 🌱 I’m currently learning **TypeScript, Python and SQL**
 
